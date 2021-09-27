@@ -11,3 +11,4 @@ A:\Microsoft Visual Studio\SOURCE\repository\Day1Exercise\obj\Debug\netcoreapp3.
 A:\Microsoft Visual Studio\SOURCE\repository\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.dll
 A:\Microsoft Visual Studio\SOURCE\repository\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.pdb
 A:\Microsoft Visual Studio\SOURCE\repository\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.genruntimeconfig.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.csproj.AssemblyReference.cache
